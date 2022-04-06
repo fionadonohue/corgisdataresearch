@@ -1,1 +1,12 @@
+body{
+  font-family: "Times New Roman";
+  padding: 20px;
+}
 
+h1{
+  text-align: center;
+}
+p {
+  font-family: verdana;
+  font-size: 15px;
+}
